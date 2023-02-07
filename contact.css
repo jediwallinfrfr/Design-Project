@@ -1,0 +1,70 @@
+img {
+    position: absolute;
+    top: 0px;
+    left: 70px;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    
+  }
+
+  p {
+    position: absolute;
+    left: 500px;
+    top: 350px;
+
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+    width: 18%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .news {
+    width: 18%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .months {
+    width: 18%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .contact {
+    width: 17.2%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .about {
+    width: 17.5%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+  }
+  .home {
+    width: 17.2%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+div {
+  position:absolute;
+  top: 30px;
+  width: 1425px;
+}
